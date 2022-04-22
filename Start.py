@@ -1,0 +1,1 @@
+print("pirmais! Skolotajs!")

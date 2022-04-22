@@ -8,7 +8,7 @@ logs.setup(600,600)
 
 
 krasa=['red', 'green','blue','black']
-
+'''
 def kvadrat():
     turtle.clear()
     turtle.pu()
@@ -71,7 +71,7 @@ def triangle():
 
 def clear_all():
     turtle.clear()
-
+'''
 
 btn4=tkinter.Button(text='kvadrat', command=kvadrat)
 #btn4.pack()

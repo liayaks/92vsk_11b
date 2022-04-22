@@ -1,0 +1,2 @@
+print("Uzraksti savu vardu")
+

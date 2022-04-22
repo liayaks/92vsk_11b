@@ -1,6 +1,6 @@
 import tkinter
 import turtle
-
+print("Hello!")
 logs=turtle.Screen()
 logs.bgcolor("lightblue")
 logs.setup(600,600)
